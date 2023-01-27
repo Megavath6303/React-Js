@@ -1,2 +1,2 @@
 # React-Js
-React hooks/routers/redux/basic
+React hooks/routers/redux/basics
